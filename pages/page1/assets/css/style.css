@@ -92,7 +92,7 @@ body {
   color: #8b8a86;
 }
 
-.hero-section {
+.title1 {
   background-color: #000000;
   background-size: cover;
   background-position: center;
@@ -108,20 +108,20 @@ body {
   padding-top: 60px; 
 }
 
-.hero-section h1 {
+.title1 h1 {
   font-size: 3.5rem;
   font-family: 'UnifrakturMaguntia', serif;
   color: #ffffff;
 }
 
-.hero-section p {
+.title1 p {
   font-size: 1rem;
   font-family: 'UnifrakturMaguntia', serif;
   margin-bottom: 2.5rem;
   color: #ffffff;
 }
 
-.celine-logo {
+.logo_1 {
   width: 650px;
   margin-top: -8rem;
 }
