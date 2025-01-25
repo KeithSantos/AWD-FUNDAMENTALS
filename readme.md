@@ -19,7 +19,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=KeithSantos/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=KeithSantos/AWD-FUNDAMENTALS)
 
 [![wakatime](https://wakatime.com/badge/user/152e83ab-a2d3-48c5-8844-b8e308c799a2/project/9598000b-5cd0-485b-b72e-0a8b35f0c782.svg)](https://wakatime.com/badge/user/152e83ab-a2d3-48c5-8844-b8e308c799a2/project/9598000b-5cd0-485b-b72e-0a8b35f0c782)
 ---
@@ -63,7 +63,7 @@ Description of the project in details.
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -83,21 +83,27 @@ Description of the project in details.
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+AWD-FUNDAMENTALS
 └─ assets
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
+|   |   └─ 1.png
+|   |   └─dv6y2019176492019-12-094550742KS Monogram.jpeg
 |   └─ js
-|       └─ script.js
+|   |   └─ script.js
+|   └─ vid
+|       └─ BG1.MP4
 └─ pages
-|  └─ pageName
+|  └─ page1
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
 |     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |      └─ 1.png
+|     |      └─ 2.png
+|     |      └─ bg1.jpg
+|     |      └─ chrome-hearts-logo-marking-63k7nz3vm19v7dx4.jpeg
 |     |  └─ js
 |     |     └─ script.js
 |     └─ index.html

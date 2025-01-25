@@ -230,3 +230,61 @@ body {
   color: white;
   margin-top: 20px;
 }
+
+.input-output-section {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.input-output-section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+
+.input-output-section p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.input-output-section input {
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+.input-output-section button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  background-color: #28a745;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.input-output-section button:hover {
+  background-color: #218838;
+}
+
+.input-output-section #output {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  color: #00ff00;
+}
+
+.photo-container .overlay .text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  text-align: center;
+}
